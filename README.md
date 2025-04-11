@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm AJ 👋
 
-<!--
-**ajsntgo/ajsntgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Bachelor of Science in Information Systems student, passionate about technology, design, and building practical solutions.  
+Currently, I'm sharpening my skills in web development, UI/UX design, and systems analysis.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+- 🌱 I’m currently learning **advanced web development** and **project management**
+- 🎯 I’m aiming to build real-world applications that solve everyday problems
+- 💬 Ask me about **Information Systems**, **UI/UX Design**, and **Basic Web Development**
+- 📫 How to reach me: [Coming soon!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- HTML • CSS • JavaScript
+- PHP • MySQL
+- UI/UX Design
+- Project Documentation and Planning
+
+📈 GitHub Stats
+![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=default)
+
+
+✨ *Always learning. Always improving. Let's build something amazing!*
