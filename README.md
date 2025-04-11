@@ -15,8 +15,4 @@ Currently, I'm sharpening my skills in web development, UI/UX design, and system
 - UI/UX Design
 - Project Documentation and Planning
 
-📈 GitHub Stats
-![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=default)
-
-
 ✨ *Always learning. Always improving. Let's build something amazing!*
