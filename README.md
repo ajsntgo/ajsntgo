@@ -1,18 +1,9 @@
-Hi, I'm AJ 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-I'm a 4th-year Bachelor of Science in Information Systems student, passionate about technology, design, and building practical solutions.  
-Currently, I'm sharpening my skills in web development, UI/UX design, and systems analysis.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-👨‍💻 About Me
-- 🌱 I’m currently learning **advanced web development** and **project management**
-- 🎯 I’m aiming to build real-world applications that solve everyday problems
-- 💬 Ask me about **Information Systems**, **UI/UX Design**, and **Basic Web Development**
-- 📫 How to reach me: [Coming soon!]
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-🛠️ Skills
-- HTML • CSS • JavaScript
-- PHP • MySQL
-- UI/UX Design
-- Project Documentation and Planning
-
-✨ *Always learning. Always improving. Let's build something amazing!*
+<br/>
