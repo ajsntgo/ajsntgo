@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning more about **Tailwind CSS** and **WPBakery Page Builder**.
 - 🔭 Working on cool front-end projects and improving my design skills.
-- ⚡ Fun fact: I love mixing creativity with code to bring ideas to life!
+- ⚡ Fun fact: I love awesome ideas that looks cool!
 
 🛠️ Skills
 - Web Development (HTML, CSS, JavaScript)
