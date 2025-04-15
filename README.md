@@ -8,9 +8,27 @@
 
 <br/>
 
+<br/>
+
+- 🌱 Currently learning more about **Tailwind CSS** and **WPBakery Page Builder**.
+- 🔭 Working on cool front-end projects and improving my design skills.
+- ⚡ Fun fact: I love mixing creativity with code to bring ideas to life!
+
+🛠️ Skills
+- Web Development (HTML, CSS, JavaScript)
+- WordPress + WPBakery
+- Tailwind CSS
+- UI/UX Design
+
+📫 How to reach me: For now, secret
+
+---
+
+> "Code is like art — every line tells a story."
+
 ### My Stats
 
-<div align="center">
+<div align="left">
 <img alt="ajsntgo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ajsntgo&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajsntgo&layout=compact&&langs_count=8"/>
 </div>
